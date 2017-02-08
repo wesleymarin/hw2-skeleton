@@ -89,4 +89,4 @@ ENV/
 .ropeproject
 
 # ipython notebooks
-*.ipynb
+hw2skeleton/*.ipynb
